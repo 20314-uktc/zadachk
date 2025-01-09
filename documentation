@@ -1,0 +1,44 @@
+nstallation Steps
+1. Clone or Download the Code
+If the code is hosted on a repository, you can clone it using Git. If you don't have Git installed, you can download it from Git Downloads.
+
+To clone the repository, use this command:
+
+bash
+Copy code
+git clone https://github.com/your-username/palindrome-checker.git
+Alternatively, if the code is a single file, you can simply download the palindrome_checker.py file.
+
+2. Navigate to the Project Directory
+After cloning the repository (or downloading the file), navigate to the folder containing the script:
+
+bash
+Copy code
+cd palindrome-checker
+3. Create and Activate Virtual Environment (Optional)
+It's a good practice to use a virtual environment to manage dependencies. If desired, you can create and activate one:
+
+bash
+Copy code
+python -m venv venv
+Activate the virtual environment:
+
+Windows:
+bash
+Copy code
+.\venv\Scripts\activate
+Mac/Linux:
+bash
+Copy code
+source venv/bin/activate
+If the script does not have any external dependencies, you can skip this step.
+
+Running the Palindrome Checker
+Once you've set up the project, you can run the Palindrome Checker script.
+
+1. Run the Python Script
+Execute the script by running:
+
+bash
+Copy code
+python palindrome_checker.py
