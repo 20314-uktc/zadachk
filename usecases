@@ -1,0 +1,22 @@
+Use Cases
+
+Add a Task
+Description: The user can add a new task to the to-do list by typing a short description of the task.
+Example:
+Input: "Finish homework"
+Output: "Task 'Finish homework' added to the list."
+How to use:
+When prompted, the user will input a task description (e.g., "Buy groceries") and press Enter. The task will be added to the to-do list.
+2. View All Tasks
+Description: The user can view all the tasks currently stored in the to-do list. Each task is displayed with a corresponding number for easier reference.
+Example:
+Input: "View Tasks"
+Output:
+markdown
+Copy code
+
+Buy groceries
+Finish homework
+Call mom
+How to use:
+When prompted, the user can choose the option to view all tasks, and the list will be displayed with each task numbered for easy reference.
