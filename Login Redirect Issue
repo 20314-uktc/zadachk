@@ -1,0 +1,14 @@
+Description:
+After logging in with a new user account, the user is not redirected to the dashboard.
+
+Steps to Reproduce:
+
+Create a new user account.
+Log in with the new account.
+Notice that the user stays on the login page instead of being redirected.
+Expected Behavior:
+User should be redirected to the dashboard after logging in.
+
+Actual Behavior:
+User stays on the login page.
+
